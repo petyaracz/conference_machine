@@ -1,236 +1,222 @@
-id	presenter_id	timezone	country
-35957	presenter 1	(GMT+00:00) London	UK
-35952	presenter 2	(GMT+01:00) Budapest	Hungary
-35725	presenter 3	(GMT+01:00) Berlin	Algeria
-35897	presenter 4	(GMT-05:00) Eastern Time (US & Canada)	USA
-35729	presenter 5	(GMT+01:00) Berlin	Germany
-35874	presenter 6	(GMT+05:30) New Delhi	India
-35947	presenter 6	(GMT+05:30) New Delhi	India
-35789	presenter 7	(GMT+09:00) Tokyo	Japan
-35910	presenter 8	(GMT+01:00) Berlin	Germany
-35911	presenter 8	(GMT+01:00) Berlin	Germany
-35908	presenter 9	(GMT+02:00) Istanbul	Turkey
-35827	presenter 10	(GMT+01:00) Rome	Italy
-35840	presenter 11	(GMT+01:00) Rome	Italy
-35898	presenter 12	(GMT+09:00) Seoul	South Korea
-35850	presenter 13	(GMT+01:00) Rome	Italy
-35730	presenter 14	(GMT+01:00) Berlin	Hungary
-35736	presenter 15	(GMT+01:00) Berlin	USA
-35767	presenter 16	(GMT+01:00) Berlin	USA
-35812	presenter 17	(GMT+01:00) Berlin	Germany
-35852	presenter 18	(GMT+01:00) Paris	France
-35835	presenter 19	(GMT+01:00) Berlin	Germany
-35875	presenter 20	(GMT+02:00) Istanbul	Turkey
-35724	presenter 21	GMT+00:00	Chile
-35727	presenter 22	GMT+00:00	UK
-35728	presenter 23	GMT-03:00	Brazil
-35731	presenter 24	(GMT-05:00) Eastern Time (US & Canada)	USA
-35734	presenter 25	(GMT+00:00) London	UK
-35735	presenter 26	(GMT+01:00) Berlin	Germany
-35737	presenter 27	(GMT+00:00) Edinburgh	UK
-35738	presenter 28	(GMT+00:00) London	UK
-35739	presenter 29	(GMT-05:00) Eastern Time (US & Canada)	USA
-35740	presenter 30	(GMT+01:00) Rome	Italy
-35741	presenter 30	(GMT+01:00) Rome	Italy
-35742	presenter 31	(GMT+01:00) Vienna	Austria
-35743	presenter 32	(GMT+01:00) Berlin	Germany
-35744	presenter 33	(GMT+12:00) Auckland	New Zealand
-35745	presenter 33	(GMT+12:00) Auckland	New Zealand
-35746	presenter 34	(GMT+01:00) Berlin	Germany
-35747	presenter 35	(GMT+01:00) Berlin	Germany
-35748	presenter 36	(GMT+01:00) Berlin	Germany
-35749	presenter 37	(GMT+01:00) Paris	France
-35750	presenter 38	(GMT+01:00) Berlin	UK
-35751	presenter 39	(GMT+01:00) Berlin	Germany
-35755	presenter 40	(GMT-08:00) Pacific Time (US & Canada)	USA
-35756	presenter 41	(GMT+01:00) Rome	Italy
-35757	presenter 41	(GMT+01:00) Rome	Italy
-35758	presenter 42	(GMT+01:00) Berlin	Germany
-35759	presenter 43	(GMT+00:00) London	UK
-35760	presenter 44	(GMT-08:00) Pacific Time (US & Canada)	USA
-35761	presenter 45	(GMT+01:00) Berlin	Hungary
-35762	presenter 46	(GMT+01:00) Bern	Switzerland
-35763	presenter 47	(GMT+01:00) Stockholm	Sweden
-35809	presenter 47	(GMT+01:00) Paris	Hungary
-35953	presenter 47	(GMT+01:00) Berlin	Germany
-35764	presenter 48	(GMT+01:00) Bern	Italy
-35765	presenter 49	(GMT-08:00) Pacific Time (US & Canada)	USA
-35766	presenter 50	(GMT+01:00) Berlin	Germany
-35768	presenter 51	(GMT+08:00) Singapore	Singapore
-35769	presenter 52	(GMT+01:00) Budapest	Hungary
-35770	presenter 52	(GMT+01:00) Budapest	Hungary
-35771	presenter 53	(GMT+01:00) Rome	Italy
-35772	presenter 54	(GMT+08:00) Singapore	Singapore
-35775	presenter 55	(GMT+01:00) Paris	Switzerland
-35776	presenter 56	(GMT+01:00) Berlin	Hungary
-35778	presenter 57	(GMT+01:00) Paris	France
-35779	presenter 58	(GMT+01:00) Berlin	Germany
-35780	presenter 59	(GMT+01:00) Rome	UK
-35781	presenter 60	(GMT+00:00) Edinburgh	UK
-35782	presenter 61	(GMT+01:00) Madrid	Spain
-35783	presenter 62	(GMT+01:00) Rome	Italy
-35784	presenter 63	(GMT+02:00) Istanbul	Turkey
-35785	presenter 64	(GMT+02:00) Istanbul	Turkey
-35786	presenter 65	GMT-06:00	USA
-35787	presenter 66	(GMT-08:00) Pacific Time (US & Canada)	Canada
-35788	presenter 67	(GMT-08:00) Pacific Time (US & Canada)	USA
-35790	presenter 68	(GMT+01:00) Berlin	Germany
-35791	presenter 69	(GMT+01:00) Berlin	Germany
-35792	presenter 70	(GMT+00:00) London	UK
-35793	presenter 71	(GMT+01:00) Rome	Italy
-35794	presenter 72	(GMT+09:00) Osaka	Japan
-35795	presenter 73	(GMT+01:00) Madrid	Italy
-35796	presenter 74	(GMT+01:00) Berlin	Germany
-35797	presenter 75	(GMT+01:00) Amsterdam	The Netherlands
-35798	presenter 76	(GMT+08:00) Singapore	Singapore
-35799	presenter 77	(GMT+01:00) Budapest	Hungary
-35800	presenter 78	(GMT+01:00) Berlin	USA
-35801	presenter 79	(GMT-05:00) Eastern Time (US & Canada)	USA
-35802	presenter 80	(GMT+01:00) Madrid	Spain
-35803	presenter 81	(GMT+00:00) London	UK
-35804	presenter 82	(GMT-05:00) Eastern Time (US & Canada)	Canada
-35805	presenter 83	(GMT+01:00) Berlin	Austria
-35806	presenter 84	(GMT+01:00) Budapest	Italy
-35807	presenter 85	(GMT+02:00) Istanbul	Turkey
-35808	presenter 85	(GMT+02:00) Istanbul	Turkey
-35810	presenter 86	(GMT+00:00) London	UK
-35811	presenter 87	(GMT+01:00) Berlin	Germany
-35813	presenter 88	(GMT+01:00) Budapest	Hungary
-35814	presenter 89	(GMT+01:00) Berlin	Germany
-35815	presenter 90	(GMT-05:00) Eastern Time (US & Canada)	USA
-35816	presenter 91	(GMT+01:00) Rome	Italy
-35817	presenter 91	(GMT+01:00) Rome	Italy
-35818	presenter 92	(GMT-05:00) Eastern Time (US & Canada)	USA
-35819	presenter 93	GMT+00:00	UK
-35820	presenter 94	(GMT-08:00) Pacific Time (US & Canada)	Canada
-35821	presenter 95	(GMT-05:00) Eastern Time (US & Canada)	Canada
-35822	presenter 96	(GMT-05:00) Eastern Time (US & Canada)	USA
-35823	presenter 97	(GMT-05:00) Eastern Time (US & Canada)	USA
-35824	presenter 98	(GMT+01:00) Bern	Switzerland
-35825	presenter 99	(GMT-05:00) Eastern Time (US & Canada)	Canada
-35826	presenter 100	(GMT+01:00) Rome	Italy
-35828	presenter 101	(GMT+08:00) Singapore	Singapore
-35829	presenter 102	(GMT+01:00) Rome	Italy
-35830	presenter 103	(GMT+01:00) Rome	Italy
-35831	presenter 104	(GMT+01:00) Rome	Italy
-35832	presenter 105	(GMT+08:00) Beijing	China
-35833	presenter 106	(GMT+00:00) Edinburgh	UK
-35834	presenter 107	(GMT+00:00) London	UK
-35836	presenter 108	(GMT+00:00) London	UK
-35837	presenter 109	(GMT+01:00) Rome	Italy
-35838	presenter 110	(GMT+02:00) Istanbul	Turkey
-35839	presenter 111	(GMT+01:00) Paris	France
-35841	presenter 112	(GMT-08:00) Pacific Time (US & Canada)	USA
-35842	presenter 113	(GMT+01:00) Berlin	Germany
-35844	presenter 114	(GMT-05:00) Eastern Time (US & Canada)	USA
-35845	presenter 115	(GMT-05:00) Eastern Time (US & Canada)	USA
-35846	presenter 116	(GMT-05:00) Eastern Time (US & Canada)	Canada
-35847	presenter 117	(GMT-05:00) Eastern Time (US & Canada)	Canada
-35848	presenter 118	(GMT+01:00) Stockholm	Norway
-35849	presenter 119	(GMT+01:00) Rome	Italy
-35914	presenter 119	(GMT+01:00) Rome	Italy
-35851	presenter 120	(GMT+00:00) Dublin	Ireland
-35853	presenter 121	(GMT+01:00) Berlin	Germany
-35858	presenter 122	(GMT-05:00) Eastern Time (US & Canada)	USA
-35859	presenter 123	(GMT-05:00) Eastern Time (US & Canada)	USA
-35860	presenter 124	(GMT-05:00) Eastern Time (US & Canada)	Canada
-35861	presenter 125	(GMT+02:00) Jerusalem	Israel
-35862	presenter 126	(GMT-05:00) Eastern Time (US & Canada)	Canada
-35863	presenter 127	(GMT+01:00) Paris	France
-35865	presenter 127	(GMT+01:00) Paris	France
-35864	presenter 128	(GMT-05:00) Eastern Time (US & Canada)	Canada
-35866	presenter 129	(GMT+00:00) London	UK
-35867	presenter 130	(GMT+01:00) Budapest	Hungary
-35868	presenter 131	(GMT+01:00) Berlin	USA
-35869	presenter 132	(GMT-05:00) Eastern Time (US & Canada)	USA
-35870	presenter 133	(GMT-06:00) Central Time (US & Canada)	USA
-35871	presenter 134	(GMT-05:00) Eastern Time (US & Canada)	USA
-35872	presenter 135	(GMT-05:00) Eastern Time (US & Canada)	Canada
-35873	presenter 136	(GMT-05:00) Eastern Time (US & Canada)	USA
-35876	presenter 137	(GMT+00:00) London	UK
-35877	presenter 138	(GMT+01:00) Rome	Norway
-35878	presenter 139	(GMT+01:00) Berlin	Germany
-35879	presenter 140	(GMT-03:00) Brasilia	Brazil
-35880	presenter 141	(GMT+03:00) Baghdad	Turkey
-35881	presenter 142	(GMT+01:00) Amsterdam	The Netherlands
-35882	presenter 143	(GMT+01:00) Rome	Italy
-35883	presenter 143	(GMT+01:00) Rome	Italy
-35884	presenter 144	(GMT+02:00) Jerusalem	Israel
-35885	presenter 145	(GMT+01:00) Budapest	Hungary
-35886	presenter 146	(GMT+01:00) Amsterdam	The Netherlands
-35887	presenter 147	(GMT+01:00) Budapest	Hungary
-35888	presenter 148	(GMT-08:00) Pacific Time (US & Canada)	Canada
-35894	presenter 148	(GMT-08:00) Pacific Time (US & Canada)	Canada
-35889	presenter 149	(GMT+01:00) Berlin	Italy
-35890	presenter 150	(GMT-05:00) Eastern Time (US & Canada)	USA
-35891	presenter 151	(GMT+01:00) Amsterdam	The Netherlands
-35892	presenter 152	(GMT-05:00) Eastern Time (US & Canada)	Canada
-35893	presenter 153	(GMT-05:00) Eastern Time (US & Canada)	Canada
-35895	presenter 154	(GMT+01:00) Budapest	Hungary
-35896	presenter 155	(GMT-05:00) Eastern Time (US & Canada)	Canada
-35899	presenter 156	(GMT+01:00) Berlin	Germany
-35900	presenter 157	(GMT+01:00) Berlin	Germany
-35901	presenter 158	(GMT+02:00) Bucharest	Hungary
-35902	presenter 159	(GMT+01:00) Vienna	Austria
-35905	presenter 159	(GMT+01:00) Vienna	Austria
-35903	presenter 160	(GMT+01:00) Budapest	Hungary
-35904	presenter 161	(GMT+04:00) St. Petersburg	Russia
-35906	presenter 162	(GMT+01:00) Budapest	Hungary
-35907	presenter 163	(GMT+01:00) Budapest	Hungary
-35909	presenter 164	(GMT+01:00) Budapest	Hungary
-35912	presenter 165	(GMT+01:00) Budapest	Hungary
-35913	presenter 166	(GMT+01:00) Berlin	Germany
-35915	presenter 167	(GMT+01:00) Vienna	Austria
-35916	presenter 168	(GMT+01:00) Budapest	Hungary
-35917	presenter 169	(GMT+01:00) Paris	France
-35918	presenter 170	(GMT+01:00) Budapest	Hungary
-35919	presenter 171	(GMT+01:00) Budapest	Hungary
-35920	presenter 172	(GMT+01:00) Berlin	Germany
-35921	presenter 173	(GMT+02:00) Istanbul	Turkey
-35922	presenter 174	(GMT+01:00) Copenhagen	Denmark
-35927	presenter 174	(GMT+01:00) Copenhagen	Denmark
-35923	presenter 175	(GMT+01:00) Berlin	Germany
-35924	presenter 176	(GMT+00:00) Dublin	UK
-35925	presenter 177	(GMT+02:00) Istanbul	Turkey
-35926	presenter 178	(GMT+01:00) Budapest	Hungary
-35928	presenter 179	(GMT+01:00) Vienna	Austria
-35929	presenter 180	(GMT+01:00) Budapest	France
-35930	presenter 181	(GMT+01:00) Amsterdam	The Netherlands
-35931	presenter 182	(GMT+01:00) Berlin	Germany
-35932	presenter 183	(GMT+00:00) London	UK
-35933	presenter 184	(GMT+01:00) Berlin	Germany
-35934	presenter 185	(GMT+01:00) Warsaw	Poland
-35935	presenter 186	(GMT+01:00) Copenhagen	Denmark
-35936	presenter 187	(GMT+01:00) Paris	France
-35937	presenter 188	(GMT-05:00) Eastern Time (US & Canada)	USA
-35938	presenter 189	(GMT+01:00) Berlin	Germany
-35939	presenter 190	(GMT-08:00) Pacific Time (US & Canada)	USA
-35940	presenter 191	(GMT+01:00) Copenhagen	Denmark
-35941	presenter 192	(GMT+01:00) Budapest	Hungary
-35942	presenter 193	(GMT-08:00) Pacific Time (US & Canada)	USA
-35970	presenter 193	(GMT-08:00) Pacific Time (US & Canada)	USA
-35943	presenter 194	(GMT+04:00) Moscow	Russia
-35944	presenter 195	(GMT+01:00) Berlin	Hungary
-35945	presenter 196	(GMT+01:00) Berlin	Germany
-35946	presenter 197	(GMT+01:00) Berlin	Germany
-35948	presenter 198	(GMT+01:00) Warsaw	Poland
-35949	presenter 199	(GMT+09:00) Tokyo	Japan
-35950	presenter 200	(GMT+01:00) Warsaw	Poland
-35951	presenter 201	(GMT+02:00) Istanbul	Turkey
-35954	presenter 202	(GMT+01:00) Rome	Italy
-35955	presenter 203	(GMT-08:00) Pacific Time (US & Canada)	Canada
-35956	presenter 204	(GMT+00:00) London	UK
-35958	presenter 205	(GMT+01:00) Paris	France
-35959	presenter 206	(GMT-08:00) Pacific Time (US & Canada)	USA
-35960	presenter 207	(GMT-05:00) Eastern Time (US & Canada)	Canada
-35961	presenter 208	(GMT+00:00) London	UK
-35962	presenter 209	(GMT+01:00) Berlin	Germany
-35963	presenter 210	(GMT+01:00) Berlin	Germany
-35964	presenter 211	(GMT+01:00) Berlin	Germany
-35965	presenter 211	(GMT+01:00) Berlin	Germany
-35966	presenter 212	(GMT+01:00) Madrid	Spain
-35967	presenter 213	(GMT+01:00) Madrid	Spain
-35968	presenter 214	(GMT+01:00) Budapest	Hungary
-35969	presenter 215	(GMT-05:00) Eastern Time (US & Canada)	USA
-35971	presenter 216	(GMT+01:00) Budapest	Hungary
-35972	presenter 217	(GMT+00:00) London	UK
+id	presenter_id	timezone	country	gmt_diff	T1	T2	T3	possible_time_slots
+35895	presenter 1	(GMT+01:00) Budapest	Hungary	1	TRUE	TRUE	TRUE	T1, T2, T3
+35969	presenter 2	(GMT-05:00) Eastern Time (US & Canada)	USA	-5	TRUE	FALSE	TRUE	T1, T3
+35948	presenter 3	(GMT+01:00) Warsaw	Poland	1	TRUE	TRUE	TRUE	T1, T2, T3
+35892	presenter 4	(GMT-05:00) Eastern Time (US & Canada)	Canada	-5	TRUE	FALSE	TRUE	T1, T3
+35954	presenter 5	(GMT+01:00) Rome	Italy	1	TRUE	TRUE	TRUE	T1, T2, T3
+35852	presenter 6	(GMT+01:00) Paris	France	1	TRUE	TRUE	TRUE	T1, T2, T3
+35942	presenter 7	(GMT-08:00) Pacific Time (US & Canada)	USA	-8	TRUE	TRUE	FALSE	T1, T2
+35970	presenter 7	(GMT-08:00) Pacific Time (US & Canada)	USA	-8	TRUE	TRUE	FALSE	T1, T2
+35931	presenter 8	(GMT+01:00) Berlin	Germany	1	TRUE	TRUE	TRUE	T1, T2, T3
+35902	presenter 9	(GMT+01:00) Vienna	Austria	1	TRUE	TRUE	TRUE	T1, T2, T3
+35905	presenter 9	(GMT+01:00) Vienna	Austria	1	TRUE	TRUE	TRUE	T1, T2, T3
+35926	presenter 10	(GMT+01:00) Budapest	Hungary	1	TRUE	TRUE	TRUE	T1, T2, T3
+35783	presenter 11	(GMT+01:00) Rome	Italy	1	TRUE	TRUE	TRUE	T1, T2, T3
+35864	presenter 12	(GMT-05:00) Eastern Time (US & Canada)	Canada	-5	TRUE	FALSE	TRUE	T1, T3
+35933	presenter 13	(GMT+01:00) Berlin	Germany	1	TRUE	TRUE	TRUE	T1, T2, T3
+35751	presenter 14	(GMT+01:00) Berlin	Germany	1	TRUE	TRUE	TRUE	T1, T2, T3
+35860	presenter 15	(GMT-05:00) Eastern Time (US & Canada)	Canada	-5	TRUE	FALSE	TRUE	T1, T3
+35951	presenter 16	(GMT+02:00) Istanbul	Turkey	2	TRUE	TRUE	TRUE	T1, T2, T3
+35861	presenter 17	(GMT+02:00) Jerusalem	Israel	2	TRUE	TRUE	TRUE	T1, T2, T3
+35867	presenter 18	(GMT+01:00) Budapest	Hungary	1	TRUE	TRUE	TRUE	T1, T2, T3
+35903	presenter 19	(GMT+01:00) Budapest	Hungary	1	TRUE	TRUE	TRUE	T1, T2, T3
+35912	presenter 20	(GMT+01:00) Budapest	Hungary	1	TRUE	TRUE	TRUE	T1, T2, T3
+35885	presenter 21	(GMT+01:00) Budapest	Hungary	1	TRUE	TRUE	TRUE	T1, T2, T3
+35769	presenter 22	(GMT+01:00) Budapest	Hungary	1	TRUE	TRUE	TRUE	T1, T2, T3
+35770	presenter 22	(GMT+01:00) Budapest	Hungary	1	TRUE	TRUE	TRUE	T1, T2, T3
+35762	presenter 23	(GMT+01:00) Bern	Switzerland	1	TRUE	TRUE	TRUE	T1, T2, T3
+35907	presenter 24	(GMT+01:00) Budapest	Hungary	1	TRUE	TRUE	TRUE	T1, T2, T3
+35842	presenter 25	(GMT+01:00) Berlin	Germany	1	TRUE	TRUE	TRUE	T1, T2, T3
+35809	presenter 26	(GMT+01:00) Paris	Hungary	1	TRUE	TRUE	TRUE	T1, T2, T3
+35814	presenter 27	(GMT+01:00) Berlin	Germany	1	TRUE	TRUE	TRUE	T1, T2, T3
+35819	presenter 28	GMT+00:00	UK	0	TRUE	FALSE	TRUE	T1, T3
+35785	presenter 29	(GMT+02:00) Istanbul	Turkey	2	TRUE	TRUE	TRUE	T1, T2, T3
+35797	presenter 30	(GMT+01:00) Amsterdam	The Netherlands	1	TRUE	TRUE	TRUE	T1, T2, T3
+35859	presenter 31	(GMT-05:00) Eastern Time (US & Canada)	USA	-5	TRUE	FALSE	TRUE	T1, T3
+35876	presenter 32	(GMT+00:00) London	UK	0	TRUE	FALSE	TRUE	T1, T3
+35782	presenter 33	(GMT+01:00) Madrid	Spain	1	TRUE	TRUE	TRUE	T1, T2, T3
+35818	presenter 34	(GMT-05:00) Eastern Time (US & Canada)	USA	-5	TRUE	FALSE	TRUE	T1, T3
+35971	presenter 35	(GMT+01:00) Budapest	Hungary	1	TRUE	TRUE	TRUE	T1, T2, T3
+35778	presenter 36	(GMT+01:00) Paris	France	1	TRUE	TRUE	TRUE	T1, T2, T3
+35781	presenter 37	(GMT+00:00) Edinburgh	UK	0	TRUE	FALSE	TRUE	T1, T3
+35946	presenter 38	(GMT+01:00) Berlin	Germany	1	TRUE	TRUE	TRUE	T1, T2, T3
+35739	presenter 39	(GMT-05:00) Eastern Time (US & Canada)	USA	-5	TRUE	FALSE	TRUE	T1, T3
+35830	presenter 40	(GMT+01:00) Rome	Italy	1	TRUE	TRUE	TRUE	T1, T2, T3
+35920	presenter 41	(GMT+01:00) Berlin	Germany	1	TRUE	TRUE	TRUE	T1, T2, T3
+35796	presenter 42	(GMT+01:00) Berlin	Germany	1	TRUE	TRUE	TRUE	T1, T2, T3
+35735	presenter 43	(GMT+01:00) Berlin	Germany	1	TRUE	TRUE	TRUE	T1, T2, T3
+35813	presenter 44	(GMT+01:00) Budapest	Hungary	1	TRUE	TRUE	TRUE	T1, T2, T3
+35798	presenter 45	(GMT+08:00) Singapore	Singapore	8	FALSE	TRUE	TRUE	T2, T3
+35963	presenter 46	(GMT+01:00) Berlin	Germany	1	TRUE	TRUE	TRUE	T1, T2, T3
+35958	presenter 47	(GMT+01:00) Paris	France	1	TRUE	TRUE	TRUE	T1, T2, T3
+35944	presenter 48	(GMT+01:00) Berlin	Hungary	1	TRUE	TRUE	TRUE	T1, T2, T3
+35893	presenter 49	(GMT-05:00) Eastern Time (US & Canada)	Canada	-5	TRUE	FALSE	TRUE	T1, T3
+35792	presenter 50	(GMT+00:00) London	UK	0	TRUE	FALSE	TRUE	T1, T3
+35922	presenter 51	(GMT+01:00) Copenhagen	Denmark	1	TRUE	TRUE	TRUE	T1, T2, T3
+35927	presenter 51	(GMT+01:00) Copenhagen	Denmark	1	TRUE	TRUE	TRUE	T1, T2, T3
+35901	presenter 52	(GMT+02:00) Bucharest	Hungary	2	TRUE	TRUE	TRUE	T1, T2, T3
+35851	presenter 53	(GMT+00:00) Dublin	Ireland	0	TRUE	FALSE	TRUE	T1, T3
+35872	presenter 54	(GMT-05:00) Eastern Time (US & Canada)	Canada	-5	TRUE	FALSE	TRUE	T1, T3
+35734	presenter 55	(GMT+00:00) London	UK	0	TRUE	FALSE	TRUE	T1, T3
+35904	presenter 56	(GMT+04:00) St. Petersburg	Russia	4	TRUE	TRUE	TRUE	T1, T2, T3
+35755	presenter 57	(GMT-08:00) Pacific Time (US & Canada)	USA	-8	TRUE	TRUE	FALSE	T1, T2
+35821	presenter 58	(GMT-05:00) Eastern Time (US & Canada)	Canada	-5	TRUE	FALSE	TRUE	T1, T3
+35935	presenter 59	(GMT+01:00) Copenhagen	Denmark	1	TRUE	TRUE	TRUE	T1, T2, T3
+35869	presenter 60	(GMT-05:00) Eastern Time (US & Canada)	USA	-5	TRUE	FALSE	TRUE	T1, T3
+35932	presenter 61	(GMT+00:00) London	UK	0	TRUE	FALSE	TRUE	T1, T3
+35787	presenter 62	(GMT-08:00) Pacific Time (US & Canada)	Canada	-8	TRUE	TRUE	FALSE	T1, T2
+35807	presenter 63	(GMT+02:00) Istanbul	Turkey	2	TRUE	TRUE	TRUE	T1, T2, T3
+35808	presenter 63	(GMT+02:00) Istanbul	Turkey	2	TRUE	TRUE	TRUE	T1, T2, T3
+35968	presenter 64	(GMT+01:00) Budapest	Hungary	1	TRUE	TRUE	TRUE	T1, T2, T3
+35759	presenter 65	(GMT+00:00) London	UK	0	TRUE	FALSE	TRUE	T1, T3
+35836	presenter 66	(GMT+00:00) London	UK	0	TRUE	FALSE	TRUE	T1, T3
+35908	presenter 67	(GMT+02:00) Istanbul	Turkey	2	TRUE	TRUE	TRUE	T1, T2, T3
+35801	presenter 68	(GMT-05:00) Eastern Time (US & Canada)	USA	-5	TRUE	FALSE	TRUE	T1, T3
+35829	presenter 69	(GMT+01:00) Rome	Italy	1	TRUE	TRUE	TRUE	T1, T2, T3
+35911	presenter 70	(GMT+01:00) Berlin	Germany	1	TRUE	TRUE	TRUE	T1, T2, T3
+35945	presenter 71	(GMT+01:00) Berlin	Germany	1	TRUE	TRUE	TRUE	T1, T2, T3
+35877	presenter 72	(GMT+01:00) Rome	Norway	1	TRUE	TRUE	TRUE	T1, T2, T3
+35820	presenter 73	(GMT-08:00) Pacific Time (US & Canada)	Canada	-8	TRUE	TRUE	FALSE	T1, T2
+35825	presenter 74	(GMT-05:00) Eastern Time (US & Canada)	Canada	-5	TRUE	FALSE	TRUE	T1, T3
+35928	presenter 75	(GMT+01:00) Vienna	Austria	1	TRUE	TRUE	TRUE	T1, T2, T3
+35953	presenter 76	(GMT+01:00) Berlin	Germany	1	TRUE	TRUE	TRUE	T1, T2, T3
+35737	presenter 77	(GMT+00:00) Edinburgh	UK	0	TRUE	FALSE	TRUE	T1, T3
+35816	presenter 78	(GMT+01:00) Rome	Italy	1	TRUE	TRUE	TRUE	T1, T2, T3
+35817	presenter 78	(GMT+01:00) Rome	Italy	1	TRUE	TRUE	TRUE	T1, T2, T3
+35775	presenter 79	(GMT+01:00) Paris	Switzerland	1	TRUE	TRUE	TRUE	T1, T2, T3
+35937	presenter 80	(GMT-05:00) Eastern Time (US & Canada)	USA	-5	TRUE	FALSE	TRUE	T1, T3
+35731	presenter 81	(GMT-05:00) Eastern Time (US & Canada)	USA	-5	TRUE	FALSE	TRUE	T1, T3
+35766	presenter 82	(GMT+01:00) Berlin	Germany	1	TRUE	TRUE	TRUE	T1, T2, T3
+35767	presenter 83	(GMT+01:00) Berlin	USA	1	TRUE	TRUE	TRUE	T1, T2, T3
+35862	presenter 84	(GMT-05:00) Eastern Time (US & Canada)	Canada	-5	TRUE	FALSE	TRUE	T1, T3
+35738	presenter 85	(GMT+00:00) London	UK	0	TRUE	FALSE	TRUE	T1, T3
+35760	presenter 86	(GMT-08:00) Pacific Time (US & Canada)	USA	-8	TRUE	TRUE	FALSE	T1, T2
+35891	presenter 87	(GMT+01:00) Amsterdam	The Netherlands	1	TRUE	TRUE	TRUE	T1, T2, T3
+35844	presenter 88	(GMT-05:00) Eastern Time (US & Canada)	USA	-5	TRUE	FALSE	TRUE	T1, T3
+35822	presenter 89	(GMT-05:00) Eastern Time (US & Canada)	USA	-5	TRUE	FALSE	TRUE	T1, T3
+35888	presenter 90	(GMT-08:00) Pacific Time (US & Canada)	Canada	-8	TRUE	TRUE	FALSE	T1, T2
+35894	presenter 90	(GMT-08:00) Pacific Time (US & Canada)	Canada	-8	TRUE	TRUE	FALSE	T1, T2
+35967	presenter 91	(GMT+01:00) Madrid	Spain	1	TRUE	TRUE	TRUE	T1, T2, T3
+35795	presenter 92	(GMT+01:00) Madrid	Italy	1	TRUE	TRUE	TRUE	T1, T2, T3
+35826	presenter 93	(GMT+01:00) Rome	Italy	1	TRUE	TRUE	TRUE	T1, T2, T3
+35925	presenter 94	(GMT+02:00) Istanbul	Turkey	2	TRUE	TRUE	TRUE	T1, T2, T3
+35765	presenter 95	(GMT-08:00) Pacific Time (US & Canada)	USA	-8	TRUE	TRUE	FALSE	T1, T2
+35736	presenter 96	(GMT+01:00) Berlin	USA	1	TRUE	TRUE	TRUE	T1, T2, T3
+35889	presenter 97	(GMT+01:00) Berlin	Italy	1	TRUE	TRUE	TRUE	T1, T2, T3
+35878	presenter 98	(GMT+01:00) Berlin	Germany	1	TRUE	TRUE	TRUE	T1, T2, T3
+35750	presenter 99	(GMT+01:00) Berlin	UK	1	TRUE	TRUE	TRUE	T1, T2, T3
+35934	presenter 100	(GMT+01:00) Warsaw	Poland	1	TRUE	TRUE	TRUE	T1, T2, T3
+35950	presenter 101	(GMT+01:00) Warsaw	Poland	1	TRUE	TRUE	TRUE	T1, T2, T3
+35868	presenter 102	(GMT+01:00) Berlin	USA	1	TRUE	TRUE	TRUE	T1, T2, T3
+35776	presenter 103	(GMT+01:00) Berlin	Hungary	1	TRUE	TRUE	TRUE	T1, T2, T3
+35890	presenter 104	(GMT-05:00) Eastern Time (US & Canada)	USA	-5	TRUE	FALSE	TRUE	T1, T3
+35835	presenter 105	(GMT+01:00) Berlin	Germany	1	TRUE	TRUE	TRUE	T1, T2, T3
+35811	presenter 106	(GMT+01:00) Berlin	Germany	1	TRUE	TRUE	TRUE	T1, T2, T3
+35966	presenter 107	(GMT+01:00) Madrid	Spain	1	TRUE	TRUE	TRUE	T1, T2, T3
+35740	presenter 108	(GMT+01:00) Rome	Italy	1	TRUE	TRUE	TRUE	T1, T2, T3
+35741	presenter 108	(GMT+01:00) Rome	Italy	1	TRUE	TRUE	TRUE	T1, T2, T3
+35880	presenter 109	(GMT+03:00) Baghdad	Turkey	3	TRUE	TRUE	TRUE	T1, T2, T3
+35810	presenter 110	(GMT+00:00) London	UK	0	TRUE	FALSE	TRUE	T1, T3
+35804	presenter 111	(GMT-05:00) Eastern Time (US & Canada)	Canada	-5	TRUE	FALSE	TRUE	T1, T3
+35900	presenter 112	(GMT+01:00) Berlin	Germany	1	TRUE	TRUE	TRUE	T1, T2, T3
+35949	presenter 113	(GMT+09:00) Tokyo	Japan	9	FALSE	TRUE	TRUE	T2, T3
+35916	presenter 114	(GMT+01:00) Budapest	Hungary	1	TRUE	TRUE	TRUE	T1, T2, T3
+35913	presenter 115	(GMT+01:00) Berlin	Germany	1	TRUE	TRUE	TRUE	T1, T2, T3
+35833	presenter 116	(GMT+00:00) Edinburgh	UK	0	TRUE	FALSE	TRUE	T1, T3
+35744	presenter 117	(GMT+12:00) Auckland	New Zealand	12	TRUE	TRUE	FALSE	T1, T2
+35745	presenter 117	(GMT+12:00) Auckland	New Zealand	12	TRUE	TRUE	FALSE	T1, T2
+35918	presenter 118	(GMT+01:00) Budapest	Hungary	1	TRUE	TRUE	TRUE	T1, T2, T3
+35919	presenter 118	(GMT+01:00) Budapest	Hungary	1	TRUE	TRUE	TRUE	T1, T2, T3
+35824	presenter 119	(GMT+01:00) Bern	Switzerland	1	TRUE	TRUE	TRUE	T1, T2, T3
+35961	presenter 120	(GMT+00:00) London	UK	0	TRUE	FALSE	TRUE	T1, T3
+35899	presenter 121	(GMT+01:00) Berlin	Germany	1	TRUE	TRUE	TRUE	T1, T2, T3
+35756	presenter 122	(GMT+01:00) Rome	Italy	1	TRUE	TRUE	TRUE	T1, T2, T3
+35757	presenter 122	(GMT+01:00) Rome	Italy	1	TRUE	TRUE	TRUE	T1, T2, T3
+35909	presenter 123	(GMT+01:00) Budapest	Hungary	1	TRUE	TRUE	TRUE	T1, T2, T3
+35812	presenter 124	(GMT+01:00) Berlin	Germany	1	TRUE	TRUE	TRUE	T1, T2, T3
+35972	presenter 125	(GMT+00:00) London	UK	0	TRUE	FALSE	TRUE	T1, T3
+35747	presenter 126	(GMT+01:00) Berlin	Germany	1	TRUE	TRUE	TRUE	T1, T2, T3
+35779	presenter 127	(GMT+01:00) Berlin	Germany	1	TRUE	TRUE	TRUE	T1, T2, T3
+35884	presenter 128	(GMT+02:00) Jerusalem	Israel	2	TRUE	TRUE	TRUE	T1, T2, T3
+35799	presenter 129	(GMT+01:00) Budapest	Hungary	1	TRUE	TRUE	TRUE	T1, T2, T3
+35746	presenter 130	(GMT+01:00) Berlin	Germany	1	TRUE	TRUE	TRUE	T1, T2, T3
+35748	presenter 131	(GMT+01:00) Berlin	Germany	1	TRUE	TRUE	TRUE	T1, T2, T3
+35943	presenter 132	(GMT+04:00) Moscow	Russia	4	TRUE	TRUE	TRUE	T1, T2, T3
+35863	presenter 133	(GMT+01:00) Paris	France	1	TRUE	TRUE	TRUE	T1, T2, T3
+35865	presenter 133	(GMT+01:00) Paris	France	1	TRUE	TRUE	TRUE	T1, T2, T3
+35938	presenter 134	(GMT+01:00) Berlin	Germany	1	TRUE	TRUE	TRUE	T1, T2, T3
+35802	presenter 135	(GMT+01:00) Madrid	Spain	1	TRUE	TRUE	TRUE	T1, T2, T3
+35743	presenter 136	(GMT+01:00) Berlin	Germany	1	TRUE	TRUE	TRUE	T1, T2, T3
+35924	presenter 137	(GMT+00:00) Dublin	UK	0	TRUE	FALSE	TRUE	T1, T3
+35886	presenter 138	(GMT+01:00) Amsterdam	The Netherlands	1	TRUE	TRUE	TRUE	T1, T2, T3
+35921	presenter 139	(GMT+02:00) Istanbul	Turkey	2	TRUE	TRUE	TRUE	T1, T2, T3
+35847	presenter 140	(GMT-05:00) Eastern Time (US & Canada)	Canada	-5	TRUE	FALSE	TRUE	T1, T3
+35915	presenter 141	(GMT+01:00) Vienna	Austria	1	TRUE	TRUE	TRUE	T1, T2, T3
+35871	presenter 142	(GMT-05:00) Eastern Time (US & Canada)	USA	-5	TRUE	FALSE	TRUE	T1, T3
+35939	presenter 143	(GMT-08:00) Pacific Time (US & Canada)	USA	-8	TRUE	TRUE	FALSE	T1, T2
+35964	presenter 144	(GMT+01:00) Berlin	Germany	1	TRUE	TRUE	TRUE	T1, T2, T3
+35965	presenter 144	(GMT+01:00) Berlin	Germany	1	TRUE	TRUE	TRUE	T1, T2, T3
+35839	presenter 145	(GMT+01:00) Paris	France	1	TRUE	TRUE	TRUE	T1, T2, T3
+35879	presenter 146	(GMT-03:00) Brasilia	Brazil	-3	TRUE	FALSE	TRUE	T1, T3
+35870	presenter 147	(GMT-06:00) Central Time (US & Canada)	USA	-6	TRUE	FALSE	TRUE	T1, T3
+35772	presenter 148	(GMT+08:00) Singapore	Singapore	8	FALSE	TRUE	TRUE	T2, T3
+35962	presenter 149	(GMT+01:00) Berlin	Germany	1	TRUE	TRUE	TRUE	T1, T2, T3
+35815	presenter 150	(GMT-05:00) Eastern Time (US & Canada)	USA	-5	TRUE	FALSE	TRUE	T1, T3
+35834	presenter 151	(GMT+00:00) London	UK	0	TRUE	FALSE	TRUE	T1, T3
+35784	presenter 152	(GMT+02:00) Istanbul	Turkey	2	TRUE	TRUE	TRUE	T1, T2, T3
+35906	presenter 153	(GMT+01:00) Budapest	Hungary	1	TRUE	TRUE	TRUE	T1, T2, T3
+35803	presenter 154	(GMT+00:00) London	UK	0	TRUE	FALSE	TRUE	T1, T3
+35917	presenter 155	(GMT+01:00) Paris	France	1	TRUE	TRUE	TRUE	T1, T2, T3
+35923	presenter 156	(GMT+01:00) Berlin	Germany	1	TRUE	TRUE	TRUE	T1, T2, T3
+35941	presenter 157	(GMT+01:00) Budapest	Hungary	1	TRUE	TRUE	TRUE	T1, T2, T3
+35768	presenter 158	(GMT+08:00) Singapore	Singapore	8	FALSE	TRUE	TRUE	T2, T3
+35853	presenter 159	(GMT+01:00) Berlin	Germany	1	TRUE	TRUE	TRUE	T1, T2, T3
+35749	presenter 160	(GMT+01:00) Paris	France	1	TRUE	TRUE	TRUE	T1, T2, T3
+35866	presenter 161	(GMT+00:00) London	UK	0	TRUE	FALSE	TRUE	T1, T3
+35761	presenter 162	(GMT+01:00) Berlin	Hungary	1	TRUE	TRUE	TRUE	T1, T2, T3
+35845	presenter 163	(GMT-05:00) Eastern Time (US & Canada)	USA	-5	TRUE	FALSE	TRUE	T1, T3
+35828	presenter 164	(GMT+08:00) Singapore	Singapore	8	FALSE	TRUE	TRUE	T2, T3
+35846	presenter 165	(GMT-05:00) Eastern Time (US & Canada)	Canada	-5	TRUE	FALSE	TRUE	T1, T3
+35929	presenter 166	(GMT+01:00) Budapest	France	1	TRUE	TRUE	TRUE	T1, T2, T3
+35955	presenter 167	(GMT-08:00) Pacific Time (US & Canada)	Canada	-8	TRUE	TRUE	FALSE	T1, T2
+35728	presenter 168	GMT-03:00	Brazil	-3	TRUE	FALSE	TRUE	T1, T3
+35780	presenter 169	(GMT+01:00) Rome	UK	1	TRUE	TRUE	TRUE	T1, T2, T3
+35790	presenter 170	(GMT+01:00) Berlin	Germany	1	TRUE	TRUE	TRUE	T1, T2, T3
+35758	presenter 171	(GMT+01:00) Berlin	Germany	1	TRUE	TRUE	TRUE	T1, T2, T3
+35764	presenter 172	(GMT+01:00) Bern	Italy	1	TRUE	TRUE	TRUE	T1, T2, T3
+35806	presenter 172	(GMT+01:00) Budapest	Italy	1	TRUE	TRUE	TRUE	T1, T2, T3
+35763	presenter 173	(GMT+01:00) Stockholm	Sweden	1	TRUE	TRUE	TRUE	T1, T2, T3
+35788	presenter 174	(GMT-08:00) Pacific Time (US & Canada)	USA	-8	TRUE	TRUE	FALSE	T1, T2
+35841	presenter 175	(GMT-08:00) Pacific Time (US & Canada)	USA	-8	TRUE	TRUE	FALSE	T1, T2
+35794	presenter 176	(GMT+09:00) Osaka	Japan	9	FALSE	TRUE	TRUE	T2, T3
+35887	presenter 177	(GMT+01:00) Budapest	Hungary	1	TRUE	TRUE	TRUE	T1, T2, T3
+35805	presenter 178	(GMT+01:00) Berlin	Austria	1	TRUE	TRUE	TRUE	T1, T2, T3
+35800	presenter 179	(GMT+01:00) Berlin	USA	1	TRUE	TRUE	TRUE	T1, T2, T3
+35838	presenter 180	(GMT+02:00) Istanbul	Turkey	2	TRUE	TRUE	TRUE	T1, T2, T3
+35882	presenter 181	(GMT+01:00) Rome	Italy	1	TRUE	TRUE	TRUE	T1, T2, T3
+35883	presenter 181	(GMT+01:00) Rome	Italy	1	TRUE	TRUE	TRUE	T1, T2, T3
+35896	presenter 182	(GMT-05:00) Eastern Time (US & Canada)	Canada	-5	TRUE	FALSE	TRUE	T1, T3
+35956	presenter 183	(GMT+00:00) London	UK	0	TRUE	FALSE	TRUE	T1, T3
+35848	presenter 184	(GMT+01:00) Stockholm	Norway	1	TRUE	TRUE	TRUE	T1, T2, T3
+35791	presenter 185	(GMT+01:00) Berlin	Germany	1	TRUE	TRUE	TRUE	T1, T2, T3
+35724	presenter 186	GMT+00:00	Chile	0	TRUE	FALSE	TRUE	T1, T3
+35881	presenter 187	(GMT+01:00) Amsterdam	The Netherlands	1	TRUE	TRUE	TRUE	T1, T2, T3
+35727	presenter 188	GMT+00:00	UK	0	TRUE	FALSE	TRUE	T1, T3
+35930	presenter 189	(GMT+01:00) Amsterdam	The Netherlands	1	TRUE	TRUE	TRUE	T1, T2, T3
+35742	presenter 190	(GMT+01:00) Vienna	Austria	1	TRUE	TRUE	TRUE	T1, T2, T3
+35960	presenter 191	(GMT-05:00) Eastern Time (US & Canada)	Canada	-5	TRUE	FALSE	TRUE	T1, T3
+35936	presenter 192	(GMT+01:00) Paris	France	1	TRUE	TRUE	TRUE	T1, T2, T3
+35771	presenter 193	(GMT+01:00) Rome	Italy	1	TRUE	TRUE	TRUE	T1, T2, T3
+35837	presenter 194	(GMT+01:00) Rome	Italy	1	TRUE	TRUE	TRUE	T1, T2, T3
+35831	presenter 195	(GMT+01:00) Rome	Italy	1	TRUE	TRUE	TRUE	T1, T2, T3
+35793	presenter 196	(GMT+01:00) Rome	Italy	1	TRUE	TRUE	TRUE	T1, T2, T3
+35940	presenter 197	(GMT+01:00) Copenhagen	Denmark	1	TRUE	TRUE	TRUE	T1, T2, T3
+35849	presenter 198	(GMT+01:00) Rome	Italy	1	TRUE	TRUE	TRUE	T1, T2, T3
+35914	presenter 198	(GMT+01:00) Rome	Italy	1	TRUE	TRUE	TRUE	T1, T2, T3
+35873	presenter 199	(GMT-05:00) Eastern Time (US & Canada)	USA	-5	TRUE	FALSE	TRUE	T1, T3
+35823	presenter 200	(GMT-05:00) Eastern Time (US & Canada)	USA	-5	TRUE	FALSE	TRUE	T1, T3
+35959	presenter 201	(GMT-08:00) Pacific Time (US & Canada)	USA	-8	TRUE	TRUE	FALSE	T1, T2
+35786	presenter 202	GMT-06:00	USA	-6	TRUE	FALSE	TRUE	T1, T3
+35832	presenter 203	(GMT+08:00) Beijing	China	8	FALSE	TRUE	TRUE	T2, T3
+35858	presenter 204	(GMT-05:00) Eastern Time (US & Canada)	USA	-5	TRUE	FALSE	TRUE	T1, T3
+35730	presenter 205	(GMT+01:00) Berlin	Hungary	1	TRUE	TRUE	TRUE	T1, T2, T3

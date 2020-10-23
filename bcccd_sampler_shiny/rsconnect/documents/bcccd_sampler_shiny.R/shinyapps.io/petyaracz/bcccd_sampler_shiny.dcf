@@ -1,0 +1,12 @@
+name: bcccd_sampler_shiny
+title: bcccd_sampler_shiny
+username:
+account: petyaracz
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 3083849
+bundleId: 3775513
+url: https://petyaracz.shinyapps.io/bcccd_sampler_shiny/
+when: 1603480153.86129
+asMultiple: FALSE
+asStatic: FALSE
